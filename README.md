@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahendra Kumar Tamrakar</h1>
-<h3 align="center">A passionate Aspiring software developer from India.</h3>
+<h3 align="center">A passionate Mobile developer from India.</h3>
 
 - 🔭 I’m currently working on Flutter Development.
-
+<center>
 <div style="text-align: center;">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIzZG96eWZ2YTc5c3B1cWNrbDI0NHJqZXB5czBuaWt6OHRhaWRsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Programming GIF" style="width: 500px; height: 281.25px; opacity: 1;">
-</div>
+</div></center>
 
 
 ## 🌐 Socials:
